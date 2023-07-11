@@ -1,5 +1,6 @@
 import './App.css';
+import Greeting from './components/Greeting';
 
-const App = () => <h1>Hello</h1>;
+const App = () => <Greeting />;
 
 export default App;
